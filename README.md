@@ -1,4 +1,4 @@
-# butzo
+# nateworks
 
 ![](https://komarev.com/ghpvc/?username=nateworks)
 [![Discord](https://img.shields.io/badge/-nateworks%230001-5865f2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/325217286547963904 "View on Discord")
